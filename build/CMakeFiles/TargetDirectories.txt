@@ -1,3 +1,0 @@
-C:/Users/cMeWH/Projects/[C_GLSL] Testing project/build/CMakeFiles/GL_GAME.dir
-C:/Users/cMeWH/Projects/[C_GLSL] Testing project/build/CMakeFiles/edit_cache.dir
-C:/Users/cMeWH/Projects/[C_GLSL] Testing project/build/CMakeFiles/rebuild_cache.dir
